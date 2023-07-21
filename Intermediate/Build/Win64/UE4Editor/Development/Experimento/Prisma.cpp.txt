@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\Experimento\Intermediate\Build\Win64\UE4Editor\Development\Experimento\Definitions.Experimento.h
+C:\Users\USUARIO\Desktop\Experimento\Source\Experimento\Prisma.h
+C:\Users\USUARIO\Desktop\Experimento\Source\Experimento\Forma.h
+C:\Users\USUARIO\Desktop\Experimento\Intermediate\Build\Win64\UE4Editor\Inc\Experimento\Forma.generated.h
+C:\Users\USUARIO\Desktop\Experimento\Intermediate\Build\Win64\UE4Editor\Inc\Experimento\Prisma.generated.h

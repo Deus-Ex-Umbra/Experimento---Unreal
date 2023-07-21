@@ -1,0 +1,3 @@
+C:\Users\USUARIO\Desktop\Experimento\Intermediate\Build\Win64\UE4Editor\Development\Experimento\Definitions.Experimento.h
+C:\Users\USUARIO\Desktop\Experimento\Source\Experimento\Forma.h
+C:\Users\USUARIO\Desktop\Experimento\Intermediate\Build\Win64\UE4Editor\Inc\Experimento\Forma.generated.h
